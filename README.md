@@ -1,4 +1,4 @@
-# Homelessness_by_state_territor
+# Homelessness Rates by State/Territory in Australia
 
 ## Description
 This project analyzes homelessness rates by state and territory in Australia from 2006 to 2021, using Python for data analysis and geospatial visualization.
@@ -35,5 +35,8 @@ The project requires the following Python libraries (listed in `requirements.txt
 To generate the `requirements.txt` file, run: pip freeze > requirements.txt
 
 ## Contact
-Wagner Luiz Apel - wagnerapel@gmail.com | https://www.linkedin.com/in/wagner-luiz-apel/ | https://github.com/wagnerluizapel
+Wagner Luiz Apel - 
+wagnerapel@gmail.com
+https://www.linkedin.com/in/wagner-luiz-apel/
+https://github.com/wagnerluizapel
 
